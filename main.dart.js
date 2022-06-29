@@ -38685,7 +38685,7 @@ Bv(){this.a1(new A.ZQ(this))},
 q(a){this.at.q(0)
 this.ba(0)},
 N(a,b){var s,r,q,p,o,n=this,m=null,l=t.w,k=b.M(l).f,j=b.M(l).f,i=b.M(l).f,h=t.p
-i=A.dB(A.bw(A.a([A.bM(A.a([B.NH,A.e8(""+(60-n.dx)+" segundos para expirar",m,m,m,B.Mv,m,m)],h),B.n,B.bk,B.p),B.cp,B.mt,B.cp,n.a4M(),B.cp,n.aas(),B.cp,n.a9r(),B.cp,n.aaj(),B.cp,B.mt,B.cp,B.NC,B.aD,A.bM(B.E5,B.n,B.u,B.p),B.aD,A.bM(B.Dd,B.n,B.u,B.p),B.aD,A.bM(B.Eb,B.n,B.u,B.p),B.aD,A.bM(B.E7,B.n,B.u,B.p),B.aD,A.bM(B.De,B.n,B.u,B.p),B.aD,A.bM(B.CC,B.n,B.u,B.p),B.aD,A.bM(B.DO,B.n,B.u,B.p),B.aD,A.bM(B.DR,B.n,B.u,B.p)],h),B.bh,B.u,B.p),i.a.b,580)
+i=A.dB(A.bw(A.a([A.bM(A.a([B.NL,A.e8(""+(60-n.dx)+" segundos para expirar",m,m,m,B.Mv,m,m)],h),B.n,B.bk,B.p),B.cp,B.mt,B.cp,n.a4M(),B.cp,n.aas(),B.cp,n.a9r(),B.cp,n.aaj(),B.cp,B.mt,B.cp,B.NC,B.aD,A.bM(B.E5,B.n,B.u,B.p),B.aD,A.bM(B.Dd,B.n,B.u,B.p),B.aD,A.bM(B.Eb,B.n,B.u,B.p),B.aD,A.bM(B.E7,B.n,B.u,B.p),B.aD,A.bM(B.De,B.n,B.u,B.p),B.aD,A.bM(B.CC,B.n,B.u,B.p),B.aD,A.bM(B.DO,B.n,B.u,B.p),B.aD,A.bM(B.DR,B.n,B.u,B.p)],h),B.bh,B.u,B.p),i.a.b,580)
 s=b.M(l).f
 r=n.a8i()
 q=n.ay?n.a8j(A.b(n.cx,"respostaP")):A.aP(m,m,m,m,m,m,m,m,m)
@@ -39332,7 +39332,7 @@ s=this.c
 r=A.c8(4)
 q=t.p
 r=A.aP(p,A.bw(A.a([n,B.aD,A.e9(s,A.h4(p,p,p,B.aC,p,p,p,p,!0,new A.cU(A.c8(4),B.L),p,p,p,p,B.a5,!0,p,p,p,p,new A.cR(4,r,B.L),p,p,p,p,p,p,"Conte\xfado Procedimento",p,p,p,p,!1,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p),p,5,!1,p)],q),B.n,B.u,B.b2),p,B.ay,p,p,p,p,p)
-return A.ei(A.a([A.d7(B.bs,new A.YO(a),p),A.d7(B.cq,new A.YP(this.a,o,s,a),p)],q),r,B.NK)},
+return A.ei(A.a([A.d7(B.bs,new A.YO(a),p),A.d7(B.cq,new A.YP(this.a,o,s,a),p)],q),r,B.NJ)},
 $S:8}
 A.YO.prototype={
 $0(){A.bO(this.a,!1).bk(0)},
@@ -39566,7 +39566,7 @@ o=l.e
 n=A.c8(4)
 m=t.p
 n=A.aP(k,A.bw(A.a([i,B.cZ,r,B.cZ,p,B.cZ,A.e9(o,A.h4(k,k,k,B.aC,k,k,k,k,!0,new A.cU(A.c8(4),B.L),k,k,k,k,B.a5,!0,k,k,k,k,new A.cR(4,n,B.L),k,k,k,k,k,k,"Pass",k,k,k,k,!1,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k),1,k,!1,k)],m),B.n,B.u,B.b2),k,B.ay,k,k,k,k,k)
-return A.ei(A.a([A.d7(B.bs,new A.Z2(a),k),A.d7(B.cq,new A.Z3(l.a,j,s,q,o,a),k)],m),n,B.NL)},
+return A.ei(A.a([A.d7(B.bs,new A.Z2(a),k),A.d7(B.cq,new A.Z3(l.a,j,s,q,o,a),k)],m),n,B.NK)},
 $S:8}
 A.Z2.prototype={
 $0(){A.bO(this.a,!1).bk(0)},
@@ -71439,8 +71439,8 @@ B.c0=new A.dn(3,"linux")
 B.c1=new A.dn(5,"windows")
 B.CW=A.a(s([B.b7,B.c_,B.at,B.c0,B.b8,B.c1]),A.Z("q<dn>"))
 B.b9=new A.j5(2,"center")
-B.NJ=new A.bd("Teste Conex\xe3o SSH",null,B.y,B.b9,null,null,null,null,null)
-B.D6=A.a(s([B.NJ]),t.p)
+B.NI=new A.bd("Teste Conex\xe3o SSH",null,B.y,B.b9,null,null,null,null,null)
+B.D6=A.a(s([B.NI]),t.p)
 B.ex=A.a(s([0,0,65490,45055,65535,34815,65534,18431]),t.t)
 B.Db=A.a(s(["pointerdown","pointermove","pointerup","pointercancel","touchstart","touchend","touchmove","touchcancel","mousedown","mousemove","mouseup","keyup","keydown"]),t.s)
 B.NA=new A.bd("Deletar",null,B.y,null,null,null,null,null,null)
@@ -71538,8 +71538,8 @@ B.E4=A.a(s([0,0,32722,12287,65534,34815,65534,18431]),t.t)
 B.Nx=new A.bd("Editar",null,B.y,null,null,null,null,null,null)
 B.E5=A.a(s([B.dh,B.bY,B.Nx]),t.p)
 B.h6=A.a(s([0,0,65498,45055,65535,34815,65534,18431]),t.t)
-B.NI=new A.bd("Enviar para linha abaixo",null,B.y,null,null,null,null,null,null)
-B.E7=A.a(s([B.cF,B.bY,B.NI]),t.p)
+B.NH=new A.bd("Enviar para linha abaixo",null,B.y,null,null,null,null,null,null)
+B.E7=A.a(s([B.cF,B.bY,B.NH]),t.p)
 B.cJ=A.a(s([0,0,24576,1023,65534,34815,65534,18431]),t.t)
 B.vD=new A.o9(0,"topLeft")
 B.vG=new A.o9(3,"bottomRight")
@@ -73070,12 +73070,12 @@ B.NC=new A.bd("Legendas:",null,B.y,null,null,null,null,null,null)
 B.ND=new A.bd("Renomear Conex\xe3o",null,null,null,null,null,null,null,null)
 B.NF=new A.bd("Procedimentos",null,B.y,null,null,null,null,null,null)
 B.NG=new A.bd("Conex\xf5es",null,B.y,null,null,null,null,null,null)
-B.Mw=new A.t(!0,B.l,null,null,null,null,20,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.NH=new A.bd("DATASINTESE - SETUP",null,B.Mw,null,null,null,null,null,null)
 B.le=new A.bd("Escolher teste",null,null,null,null,null,null,null,null)
-B.NK=new A.bd("Criar Procedimento",null,null,null,null,null,null,null,null)
+B.NJ=new A.bd("Criar Procedimento",null,null,null,null,null,null,null,null)
 B.bs=new A.bd("Cancelar",null,null,null,null,null,null,null,null)
-B.NL=new A.bd("Editar Conex\xe3o",null,null,null,null,null,null,null,null)
+B.NK=new A.bd("Editar Conex\xe3o",null,null,null,null,null,null,null,null)
+B.Mw=new A.t(!0,B.l,null,null,null,null,20,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.NL=new A.bd("Datasintese Setup",null,B.Mw,null,null,null,null,null,null)
 B.NO=new A.bd("Roteiros",null,B.y,null,null,null,null,null,null)
 B.NR=new A.bd("Criar Conex\xe3o",null,null,null,null,null,null,null,null)
 B.NT=new A.bd("Criar Roteiro",null,null,null,null,null,null,null,null)
