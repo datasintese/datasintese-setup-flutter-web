@@ -41186,7 +41186,7 @@ s.a_(new A.a0I(s))},
 $S:0}
 A.a0I.prototype={
 $0(){var s=this.a
-s.dy=s.fr=s.dx=!1
+s.fx=s.dy=s.fr=s.dx=!1
 s.id=""},
 $S:0}
 A.a0K.prototype={
@@ -41207,7 +41207,7 @@ s.a_(new A.a0G(s))},
 $S:0}
 A.a0G.prototype={
 $0(){var s=this.a
-s.dy=s.fr=s.dx=!1
+s.fx=s.dy=s.fr=s.dx=!1
 s.id=""},
 $S:0}
 A.a0O.prototype={
