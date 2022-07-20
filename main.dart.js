@@ -38823,7 +38823,7 @@ i.e=null
 q=3
 l=t.N
 s=6
-return A.a0(n.eE("POST",A.cN("https://api.datasintese.com:5577/oauth/token"),A.u(l,l),A.aa(["grant_type","password","username",a,"password",b,"expires_in","8460000"],l,l),null),$async$nT)
+return A.a0(n.eE("POST",A.cN("https://api.datasintese.com:5577/oauth/token"),A.u(l,l),A.aa(["grant_type","password","username",a,"password",b,"expires_in","84600"],l,l),null),$async$nT)
 case 6:k=f
 i.e=k
 A.e4(k.b,new A.TG(i,c),new A.TH(i,d),new A.TI(i,d),new A.TJ(i,d),new A.TK(),new A.TL())
